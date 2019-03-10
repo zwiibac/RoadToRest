@@ -1,0 +1,9 @@
+﻿<Application x:Class="TextDisplay.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TextDisplay"
+             StartupUri="TextView.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
